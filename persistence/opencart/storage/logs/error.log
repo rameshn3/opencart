@@ -1,0 +1,10 @@
+2024-06-23 2:37:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719109920): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-23 2:37:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719109920): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-23 2:37:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.currency.1719109920): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-23 2:37:30 - PHP Warning:  fopen(/bitnami/opencart_storage/cache/cache.catalog.language.1719113850): Failed to open stream: No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 49
+2024-06-25 1:24:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719268766): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-25 1:24:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719268766): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-25 1:24:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.currency.1719268766): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-25 1:24:30 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.currency.1719282270): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 68
+2024-06-25 4:01:11 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719282270): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
+2024-06-25 4:01:11 - PHP Warning:  unlink(/bitnami/opencart_storage/cache/cache.catalog.language.1719282270): No such file or directory in /opt/bitnami/opencart/system/library/cache/file.php on line 17
